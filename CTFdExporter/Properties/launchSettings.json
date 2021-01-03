@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "CTFdExporter": {
+      "commandName": "Project",
+      "commandLineArgs": "\"C:\\Users\\Berend\\scoreboard.json\""
+    }
+  }
+}
